@@ -24,4 +24,4 @@ I'm a full-stack developer working in the sports technology and online payment p
 <br />
 
 ### Websites
-<a href=""><img src="https://github.com/nickhubbard-dev/nickhubbard-dev/blob/main/twebor.com.png?raw=true" alt="Twebor.com" width="100px" /></a>
+<a href=""><img src="https://github.com/nickhubbard-dev/nickhubbard-dev/blob/main/twebor.com.png?raw=true" alt="Twebor.com" width="50%" /></a>
