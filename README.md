@@ -24,4 +24,4 @@ I'm a full-stack developer working in the sports technology and online payment p
 <br />
 
 ### Websites
-![twebor.com](twebor.com.png){width:50}
+![twebor.com](twebor.com.png | width=100 )
