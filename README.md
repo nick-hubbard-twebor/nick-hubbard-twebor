@@ -23,7 +23,4 @@ I'm a full-stack developer working in the sports technology and online payment p
 
 <br />
 
-#
-
-
 [website]: https://twebor.com
