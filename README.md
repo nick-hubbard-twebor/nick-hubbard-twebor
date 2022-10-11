@@ -20,8 +20,9 @@ I'm a full-stack developer working in the sports technology and online payment p
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<br /><br />
 
-<br />
+---
 
 ### Websites
 <a href=""><img src="https://github.com/nickhubbard-dev/nickhubbard-dev/blob/main/twebor.com.png?raw=true" alt="Twebor.com" width="50%" /></a>
